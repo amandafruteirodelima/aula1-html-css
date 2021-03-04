@@ -1,9 +1,20 @@
-.altura {
+.div1 {
 
     height: 50px;
+    background-color: pink;    
 }
 
-.cor {
+.div2 {
+    height: 400px;
+background-color: purple;    
+}
 
-background-color: pink;    
+.div3 {
+    height: 50px;
+    background-color: pink;  
+}
+
+.div4 {
+    height: 50px;
+background-color: yellow;  
 }
